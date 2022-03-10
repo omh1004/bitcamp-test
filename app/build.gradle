@@ -29,6 +29,6 @@ test {
 // eclipse 프로젝트 이름을 설정하기
 eclipse {
     project {
-        name = "lime"
+        name = "bitcamp-test"
     }
 }
