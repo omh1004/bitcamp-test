@@ -1,9 +1,10 @@
 package com.bitcamptest;
 
-public class Hello3 {
+public class Hello222 {
 
   public static void main(String[] args) {
-    System.out.println("허정윤!!");
+    // TODO Auto-generated method stub
+
   }
 
 }
