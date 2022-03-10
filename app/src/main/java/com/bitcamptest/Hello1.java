@@ -6,13 +6,13 @@ public class Hello1 {
     System.out.println("팀원1입니다.");
     haha();
     m1();
-    System.out.println("빌런");
+    System.out.println("빌런!!!!!");
   }
 
   static void m1() {
     System.out.println("강사입니다!");
   }
-  
+
   static void haha() {
     System.out.println("hahahahaha");
   }
